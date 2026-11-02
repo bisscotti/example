@@ -1,0 +1,9 @@
+{
+  "username": "Jhon",
+  "age": 24,
+  "colors":  ["purple", "blue", "yellow"],
+  "game": {
+    "name": null,
+    "is_favorite": true
+  }
+}

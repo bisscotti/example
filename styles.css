@@ -1,0 +1,38 @@
+body{
+  background-color: darkslategray;
+}
+
+
+.megawrapper{
+  margin-top: 350px !important;
+  margin: 0 auto;
+  width: 500px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+}
+.wrapper{
+  max-width: 1240px;
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+
+.box{
+  width: 200;
+  height: 200;
+  background-color: aqua;
+  opacity: 1;
+}
+
+.red{
+  background-color: red;
+}
